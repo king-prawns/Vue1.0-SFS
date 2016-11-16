@@ -2,7 +2,7 @@
 var locales = {
     it: {
         message: {
-            TITLE: 'Amministrazione Forum',
+            TITLE: 'Vue1.0-SFS',
             BUTTON_LANG_IT: 'italiano',
             BUTTON_LANG_EN: 'inglese',
             ID: 'ID',
@@ -23,7 +23,7 @@ var locales = {
     },
     en: {
         message: {
-            TITLE: 'Admin Forum',
+            TITLE: 'Vue1.0-SFS',
             BUTTON_LANG_IT: 'italian',
             BUTTON_LANG_EN: 'english',
             ID: 'ID',
