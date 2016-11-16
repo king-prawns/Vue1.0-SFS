@@ -77,7 +77,7 @@ $ json-server --watch db.json
 
 - component, extend, filter
 - single file components (.vue)
-- custom third part library
+- include 3rd-party JS library
 - [Webpack](https://webpack.github.io/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Vue Bootstrap](https://yuche.github.io/vue-strap/)
