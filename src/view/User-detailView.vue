@@ -31,7 +31,7 @@
 
 <script>
 import services from '../service'
-import SteWidget from '../widget/SteWidget'
+import CustomWidget from '../widget/customWidget'
     
 export default {
     data(){
@@ -45,7 +45,7 @@ export default {
             return services.updateUser(this.userID, this.user)
         },
         sayName(firstName, lastName) {
-            SteWidget.fullName(firstName, lastName)
+            CustomWidget.fullName(firstName, lastName)
         }
     },
     route: {
