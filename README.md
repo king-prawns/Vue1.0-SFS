@@ -45,7 +45,7 @@ $ cd my-project
 $ npm run dev
 ```
 
-b) for dist build
+b) for prod build
 
 ```
 $ cd my-project
