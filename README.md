@@ -6,14 +6,6 @@ Vue 1.0 project - Start from scratch
 
 Go to [Node website](https://nodejs.org/en/)
 
-- Install npm
-
-Open command prompt
-
-```
-$ npm install npm -g
-```
-
 - Install vue-cli
 
 A simple CLI for scaffolding Vue.js projects
