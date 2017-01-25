@@ -6,14 +6,14 @@ Vue 1.0 project - Start from scratch
 
 Go to [Node website](https://nodejs.org/en/)
 
-- Install vue-cli
+- Install [vue-cli](https://github.com/vuejs/vue-cli)
 
 A simple CLI for scaffolding Vue.js projects
 ```
 $ npm install -g vue-cli
 ```
 
-- Install json-server ([source](https://github.com/typicode/json-server))
+- Install [json-server](https://github.com/typicode/json-server)
 
 Full fake REST API
 ```
@@ -44,7 +44,7 @@ $ cd my-project
 $ npm run build
 ```
 
-Install http-server ([source](https://github.com/indexzero/http-server))
+Install [http-server](https://github.com/indexzero/http-server)
 
 A command-line http server
 ```
@@ -79,6 +79,7 @@ $ json-server --watch db.json
 - [Vue i18n](https://github.com/kazupon/vue-i18n)
 - [Favicons Webpack Plugin](https://github.com/jantimon/favicons-webpack-plugin)
 - [NProgress](https://github.com/rstacruz/nprogress)
+- NO unit/integration test has been developed
 
 ## Conclusion
 
