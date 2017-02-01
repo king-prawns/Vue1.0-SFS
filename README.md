@@ -72,7 +72,7 @@ $ json-server --watch db.json
 - include 3rd-party JS library
 - [Webpack](https://webpack.github.io/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
-- [Vue Bootstrap](https://yuche.github.io/vue-strap/)
+- [Bootstrap](http://getbootstrap.com/)
 - [Vue Loader](https://github.com/vuejs/vue-loader)
 - [Vue Resource](https://github.com/vuejs/vue-resource)
 - [Vue Router](https://github.com/vuejs/vue-router)
