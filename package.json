@@ -1,7 +1,7 @@
 {
-  "name": "vue1.0-Webpack-SFS",
+  "name": "vue1.0-SFS",
   "version": "1.0.0",
-  "description": "test project vue",
+  "description": "Vue 1.0 project - Start from scratch",
   "author": "Giorgio Gamberoni",
   "private": true,
   "scripts": {
