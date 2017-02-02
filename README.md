@@ -67,7 +67,6 @@ $ json-server --watch db.json
 
 ## Features
 
-- component, extend, filter
 - single file components (.vue)
 - include 3rd-party JS library
 - [Webpack](https://webpack.github.io/)
