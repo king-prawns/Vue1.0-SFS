@@ -39,6 +39,7 @@
     "extract-text-webpack-plugin": "1.0.1",
     "favicons-webpack-plugin": "0.0.7",
     "file-loader": "0.8.4",
+    "fresh": "0.5.2",
     "function-bind": "1.0.2",
     "hoek": "5.0.3",
     "html-webpack-plugin": "2.8.1",
